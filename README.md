@@ -28,12 +28,12 @@ Nous vous conseillons d'avancer avant de faire une base
 
 ## Shop
   
-UnderCraft bénéficie d'une place du marché.
-**Comment la rejoindre ? :**
+UnderCraft bénéficie d'une place du marché.  
+**Comment la rejoindre ? :**  
 En dessous du spawn (passez par les grands escaliers, une porte est ouverte à un endroit, regardez la livemap)
 /warp shop pour les VIP et plus
   
-**Comment acheter / vendre ?**
+**Comment acheter / vendre ?**  
 Passez voir __le monnayeur__ , qui va vous échanger des objets contre des ManaCoins (monnaie du jeu)
 Regardez sur le discord les échanges entres joueurs
   
